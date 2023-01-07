@@ -68,6 +68,26 @@ Check plugins installed:
 [Windows] If colours are incorrect add to `.vimrc`:
 `:set termguicolors`
 
+### Convert Cap Lock to Esc
+
+#### Mac os
+
+Accessiblity
+
+- Keyboard
+
+Keyboard Shortcuts...
+
+Modifier Keys
+Caps Lock key - Escape
+
+#### Windows
+
+Install sharpkeys39:
+[sharpkeys39.msi](https://www.randyrants.com/sharpkeys39.msi)
+
+Add new key bind in sharpkeys program
+
 ### VS Code
 
 Install `Vim` plugin for vs code - `vscodevim`
